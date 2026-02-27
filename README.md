@@ -1,2 +1,2 @@
 # Python-Example-Manchester
-Intern question
+I made this within Idle shell. 
